@@ -8,8 +8,8 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: #0b97c2;
-  color: rgb(15, 202, 55);
+  background: #00b7ff;
+  color: rgb(0, 0, 0);
 }
 
 nav {
@@ -17,23 +17,23 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 25px 8%;
-  background: #c72dc7;
+  background: #ffffff;
   position: sticky;
   top: 0;
 }
 
 nav h2 {
-  color: #dbd811;
+  color: #000000;
 }
 
 nav a {
-  color: rgb(231, 20, 20);
+  color: rgb(0, 0, 0);
   text-decoration: none;
   margin-left: 25px;
 }
 
 nav a:hover {
-  color: #390bdd;
+  color: #00d9ff;
 }
 
 section {
@@ -50,7 +50,7 @@ section {
 }
 
 .welcome {
-  color: #d10c3d;
+  color: #ffd900;
   letter-spacing: 3px;
   margin-bottom: 20px;
 }
@@ -61,7 +61,7 @@ section {
 }
 
 .home h1 span {
-  color: #1a7275;
+  color: #00f7ff;
 }
 
 .home h2 {
@@ -76,7 +76,7 @@ section {
   width: 250px;
   height: 250px;
   border-radius: 50%;
-  border: 5px solid #000000;
+  border: 5px solid #ffffff;
   object-fit: cover;
 }
 
@@ -84,15 +84,15 @@ section {
   display: inline-block;
   margin-top: 25px;
   padding: 12px 25px;
-  background: #0bb335;
-  color: #0279a8;
+  background: #ffae00;
+  color: #000000;
   text-decoration: none;
   border-radius: 25px;
   font-weight: bold;
 }
 
 section h1 {
-  color: #f3c705;
+  color: #ffffff;
   margin-bottom: 30px;
 }
 
@@ -107,15 +107,15 @@ section p {
 }
 
 .card {
-  background: #00eeff;
+  background: #0099ff;
   padding: 25px;
   border-radius: 12px;
   flex: 1 1 180px;
-  border: 1px solid #3e4cc9;
+  border: 1px solid #000000;
 }
 
 .card:hover {
-  border-color: #620deb;
+  border-color: #00ff2a;
   transform: translateY(-5px);
   transition: 0.3s;
 }
@@ -123,7 +123,7 @@ section p {
 footer {
   text-align: center;
   padding: 25px;
-  background: #10d6e4;
+  background: #d56adf;
 }
 
 @media (max-width: 700px) {

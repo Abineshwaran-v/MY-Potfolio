@@ -31,9 +31,8 @@ function App() {
         </div>
 
         <div className="profile">
-          <img src="https://via.placeholder.com/250"
-               alt="My Profile" />
-        </div>
+  <img src="/profile.jpg.jpg" alt="My Profile" />
+</div>
       </section>
 
       {/* About */}
